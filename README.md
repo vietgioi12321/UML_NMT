@@ -1,2 +1,2 @@
 # UML_NMT
-xử lý ngôn ngữ tự nhiên
+mô hình hóa xử lý ngôn ngữ tự nhiên
